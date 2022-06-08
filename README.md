@@ -2,7 +2,7 @@
 
 ## editando o perfil
 
-#### Teste
+#### estou aprendendo
 
 
 - 👋 Hi, I’m @p3drolenda
