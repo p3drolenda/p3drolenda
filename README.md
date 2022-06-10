@@ -5,11 +5,11 @@
 #### estou aprendendo
 
 
-- 👋 Hi, I’m @p3drolenda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá , meu nome é Pedro Antonio
+- 👀 Eu , estou interessado em aprender, e programar novas linguagens  
+- 🌱 Estou aprendendo recentemente a configurar as linguagens de JavaScript e Scratch
+- 💞️ Eu procuro colaborar com a minha atenção
+- 📫 e procuro enviar tudo que aprendi , e vou aprender 
 
 <!---
 p3drolenda/p3drolenda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
